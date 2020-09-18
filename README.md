@@ -10,6 +10,8 @@ Rules and historical figures may or may not change so I'll update once I have th
 
 This is a fighting game based on characters from the Fate series (whom are based on either historical or mythological figures) where to land a successful attack, you need to answer the trivia question correctly. However, the trivia question will not be on your own character, but that of your opponent's; each correct answer is a successful strike on the enemy.
 
+The easy, medium, or hard buttons will mimic the color scheme of the Buster, Arts, and Quick cards in the mobile game Fate Grand Order.
+
 ## Character Selection
 
 Once a character is chosen, their character selection will disappear. Once both people select their character, they're be taken to the battle screen. Each person will have their character's portrait with a list of lines they'll say depending on the situation that is unique to each character.
