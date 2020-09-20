@@ -15,3 +15,5 @@ The easy, medium, or hard buttons will mimic the color scheme of the Buster, Art
 ## Character Selection
 
 Once a character is chosen, their character selection will disappear. Once both people select their character, they're be taken to the battle screen. Each person will have their character's portrait with a list of lines they'll say depending on the situation that is unique to each character.
+
+Since this is meant for historical figures, those who are apart of myths solely won't be included like King Arthur.
