@@ -21,3 +21,5 @@ Since this is meant for historical figures, those who are apart of myths solely 
 ## Gameplay
 
 Unknown whether I'll use the same rules as the previous or change them. Will fill this section when I finish the structure. 
+
+Testing GitHub connection.
