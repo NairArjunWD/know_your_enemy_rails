@@ -22,4 +22,4 @@ Since this is meant for historical figures, those who are apart of myths solely 
 
 Unknown whether I'll use the same rules as the previous or change them. Will fill this section when I finish the structure. 
 
-Testing GitHub connection.
+It will fit the structure of the game where Buster is the most damage, Arts is medium damage, and quick is lowest damage.
